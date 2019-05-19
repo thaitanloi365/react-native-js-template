@@ -1,6 +1,5 @@
 module.exports = {
-  presets: ["module:metro-react-native-babel-preset", "flow"],
-  retainLines: true,
+  presets: ["module:metro-react-native-babel-preset"],
   env: {
     production: {
       plugins: ["transform-remove-console"]
