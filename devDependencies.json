@@ -1,0 +1,5 @@
+{
+  "babel-plugin-transform-remove-console": "latest",
+  "babel-plugin-module-resolver": "latest",
+  "redux-logger": "latest"
+}

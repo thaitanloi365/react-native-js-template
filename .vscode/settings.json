@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "flow.useNPMPackagedFlow": true,
+  "javascript.validate.enable": false,
+  "javascript.format.enable": false,
+  "flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
+  "prettier.eslintIntegration": true,
+  "eslint.options": {
+    "configFile": ".eslintrc"
+  },
+  "eslint.enable": true
+}

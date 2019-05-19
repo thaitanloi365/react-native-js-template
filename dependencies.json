@@ -1,0 +1,15 @@
+{
+  "moment": "latest",
+  "axios": "latest",
+  "react-navigation": "latest",
+  "react-native-splash-screen": "latest",
+  "react-native-gesture-handler": "latest",
+  "redux": "latest",
+  "react-redux": "latest",
+  "redux-persist": "latest",
+  "redux-thunk": "latest",
+  "react-native-code-push": "latest",
+  "rn-components": "thaitanloi365/rn-components",
+  "rn-rn-codepush-dialog": "thaitanloi365/rn-codepush-dialog",
+  "rn-notifier": "thaitanloi365/rn-notifier"
+}
